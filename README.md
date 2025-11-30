@@ -1,5 +1,5 @@
 # Tatl Skips Mod
-This is a mod that prevent Tatl interruptions from happening. It does not include actual cutscenes like the one after Link gets transformed as a Deku after going through the first door. It affects the following:
+This is a mod for Majora's Mask Recompiled that prevent Tatl interruptions from happening. It does not include actual cutscenes like the one after Link gets transformed as a Deku after going through the first door. It affects the following:
 - Interruptions where Tatl will bring up some short dialogs to serve as a hint, such as:
   - Approaching the pushable block in the bridges room in Woodfall Temple;
   - Approaching the pushable block at the Snowhead Temple entrance.
